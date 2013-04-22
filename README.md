@@ -1,4 +1,4 @@
 google_translator_cli
 =====================
 
-Google translator cli
+谷歌翻译命令行版
